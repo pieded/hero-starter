@@ -1,3 +1,4 @@
+'use strict'
 /**
 
 If you'd like to test your hero code locally, run this script using node.
