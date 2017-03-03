@@ -149,7 +149,7 @@ function gameEnd () {
 // Utils helper functions
 // Clears the console's screen
 function clearScreen () {
-    process.stdout.write('\033c');
+    process.stdout.write('\x1Bc');
 }
 
 
